@@ -1,0 +1,17 @@
+
+h2{
+    font-size: 30px;
+    font-weight:bold;
+    font-family: sans-serif;
+    text-shadow: 2px 1px 2px #ccc;
+   
+}
+img{
+    clip-path: circle(50%);
+}
+.box{
+    display: flex;
+}
+.none{
+    list-style-type: none;
+}

@@ -1,0 +1,52 @@
+body{
+    background-image: url(file:///C:/Users/Kirijan/Desktop/html/wp1929861.jpg); background-size: 100% 100%;
+}
+input{
+    width: 50%;
+    padding: 12px 12px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border: 2px solid brown;
+    border-radius: 4px;
+    box-sizing:border-box;
+    margin-right: 10px;
+    overflow: hidden;
+    background: none;
+    color: rgb(29, 231, 214);
+
+}
+::placeholder{
+    color: rgb(56, 224, 14);
+
+}
+textarea{
+    width: 50%;
+    padding: 12px 12px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border: 2px solid brown;
+    border-radius: 4px;
+    box-sizing:border-box;
+    overflow: hidden;
+    background: none;
+
+}
+button{
+    width: 30%;
+    padding: 12px 12px;
+    margin-top: 20px;
+    margin-left: 10px;
+    
+    border-radius: 4px;
+    background-color: cornflowerblue;
+    cursor: pointer;
+    overflow: hidden;
+}
+button:hover{
+    background-color: crimson;
+}
+div{
+    padding: 12px 12px;
+    margin-top: 5px;
+    color: rgb(46, 238, 238);
+}

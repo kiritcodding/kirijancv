@@ -1,0 +1,192 @@
+*{
+    cursor: pointer;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body{
+    width:100%;
+    min-hight:100vh;
+    background:url(file:///C:/Users/Kirijan/Desktop/html/59+-4K-Dark-Wallpapers-on-WallpaperPlay.jpg);background-size:100% 100%;
+}Play.jpg
+header img{
+    position: flex;
+    clip-path: circle(50%);
+    
+  
+    
+  
+   
+    font-family:sans-serif
+   
+}
+header{
+    display:flex;
+    justify-content:space-between;
+    padding: 3px;
+}
+.menu{
+    
+}
+.first{
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    margin-top: 30px;
+
+    
+}
+
+.nav-links {
+    display:flex;
+    color: rgb(231, 228, 12);
+    margin: 10px 20px;
+    size: 5px;
+    font: weight 400px;
+    align-items: center;
+    justify-content: space-between;
+    width: 30%;
+    
+}
+.box{
+    height:300px;
+    width: 300px;
+    margin: auto;
+    margin-top: 50px; 
+    
+    
+}
+li{
+    list-style-type: none;
+
+}
+.put{
+    width: 8px;
+}
+header img:hover{
+    color: white;
+    transform: scale(1.4);
+    transition:cubic-bezier(0.6) 
+}
+.me:hover{
+    transform: scale(1.4);
+    transition:cubic-bezier(0.6)
+}
+
+
+.nav-links li:hover{
+    color: white;
+    transform: scale(1.4);
+    transition:cubic-bezier(0.6) 
+    
+}
+@media screen and (max-width:840px){
+    .nav-links{
+        width: 50%;
+    }
+    .put{
+        width: 50%;
+    }
+    h3{
+        width: 50%;
+    }
+}
+@media screen and (max-width:570px;){
+    .nav-links{
+        display: none;
+    }
+}
+.start{
+    width: 900px;
+    height: 600px;
+  padding: 0% 0%;
+   clip-path: circle;
+   margin: auto;
+   margin-top: 100px;
+   line-height: 1px;
+   margin-left: 100px;
+}
+.start h2{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.start h3{
+    color: turquoise;
+    font-size: 20px;
+    font-family: inherit;
+    margin-top: 0px;
+    margin-bottom: 10px;
+
+
+}
+.start input{
+    width: 200px;
+    height: 50px;
+    border-radius: 20%;
+    color: rgb(175, 126, 20);
+    border-color: rgb(14, 211, 63);
+    overflow: hidden;
+    background: none;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.start input:hover{
+    transform: scale(1.4);
+    transition:cubic-bezier(0.6) 
+
+}    
+
+}
+input{
+    font-size:20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin: auto;
+  
+     
+ 
+
+}
+.facebook{
+    
+    width: 300px;
+    height: 100px;
+    margin: auto;
+    margin-top: 0px;
+    position: absolute;
+    left: 100px;
+    top: 500px;
+    display: inline-block;
+    padding: 2px;
+   float: left;
+   margin-left: 75%;
+   
+    
+}
+.side{
+    float: left;
+    padding: 1px;
+    width: 50px;
+    height: 50px;
+    
+}
+
+
+
+}
+
+
+ 
+
+
+
+   
+    
+    
+    
+
+
+
+   
+    

@@ -7,10 +7,11 @@ body{
     width:100%;
     min-hight:100vh;
     background:url(https://user-images.githubusercontent.com/89644692/131203600-96a2577c-187b-4107-8e73-ecf26c4cc848.jpg);background-size:100% 100%;
-}Play.jpg
+}
 header img{
     position: flex;
     clip-path: circle(50%);
+    margin-left:20px;
     
   
     
